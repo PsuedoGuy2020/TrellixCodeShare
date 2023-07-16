@@ -21,6 +21,9 @@ Trellix is a dedicated website designed exclusively for interviewers and candida
 
 # Tech Stack Used
 . NodeJS
+
 . ReactJS
+
 . Html
+
 . Tailwind CSS
